@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything. hit me up.
 - 📫 How to reach me: uzairmustufa@gmail.com
 
-![](https://komarev.com/ghpvc/?username=uzair110)
+![](https://komarev.com/ghpvc/?username=uzair110?color=red)
 
 <!---
 uzair110/uzair110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
