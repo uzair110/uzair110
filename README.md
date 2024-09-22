@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzair110
 - 👀 I’m interested in software engineering with a knack of machine learning that comes along
-- 🌱 I’m currently learning RoR
+- 🌱 I’m currently a fullstack but always looking at the newest LLM
 - 💞️ I’m looking to collaborate on anything and everything. hit me up.
 - 📫 How to reach me: uzairmustufa@gmail.com
 
